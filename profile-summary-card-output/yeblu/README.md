@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/A-n-d-i-l-e/Abstract-Minds/master/profile-summary-card-output/yeblu/4-productive-time.svg)
-```
-
-    
